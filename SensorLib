@@ -1,0 +1,17 @@
+/*
+ * sensorLib.h
+ *
+ *  Created on: Dec 6, 2014
+ *      Author: C16Jacob.Lawson
+ */
+
+#ifndef SENSORLIB_H_
+#define SENSORLIB_H_
+
+#define		WALL				0x220;
+
+short goLeft();
+short goCenter();
+short goRight();
+
+#endif /* SENSORLIB_H_ */
